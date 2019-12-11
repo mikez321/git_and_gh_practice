@@ -1,6 +1,6 @@
 # Git and GitHub Practice
 
-##This is a homework assignment.
+## This is a homework assignment.
 
 In it, I have done the following:
 
@@ -20,7 +20,7 @@ In it, I have done the following:
 
 8. Pushed my local git to GitHub
 
-##Thoughts/Issues
+## Thoughts/Issues
 
   *The only issue I had was I didn't commit my local git before trying to add remote.  This created an error because I had no committed files to add.  I then tried to add info line by line, and got another error saying the folders were already created.  I realized I had linked my local and remote, but just hadn't committed my local.  Once I did that everything worked properly.
 
